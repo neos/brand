@@ -1,5 +1,4 @@
-# brand
-Neos brand assets
+# Neos brand assets
 
 ## Neos Transition Brand Guide
 
