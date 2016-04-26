@@ -76,6 +76,7 @@ PNG [2160](https://github.com/neos/brand/blob/master/logos/png/neos_N_negative_d
 
 ### Negative Logo for dark backgrounds
 ![image](https://raw.githubusercontent.com/neos/brand/master/logos/png/neos_N_negative_light_250.png)
+
 [SVG](https://github.com/neos/brand/blob/master/logos/svg/neos_N_negative_light.svg)
 [EPS](https://github.com/neos/brand/raw/master/logos/eps/neos_N_negative_light.eps)
 PNG [2160](https://github.com/neos/brand/blob/master/logos/png/neos_N_negative_light_2160.png) [1080](https://github.com/neos/brand/blob/master/logos/png/neos_N_negative_light_1080.png) [500](https://github.com/neos/brand/blob/master/logos/png/neos_N_negative_light_500.png) [250](https://github.com/neos/brand/blob/master/logos/png/neos_N_negative_light_250.png)
