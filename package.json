@@ -1,0 +1,10 @@
+{
+  "name": "@neos-project/brand",
+  "version": "1.0.0",
+  "description": "Branding Assets of the Neos Project.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neos/brand.git"
+  }
+}
