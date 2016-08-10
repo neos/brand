@@ -7,7 +7,7 @@ This repository contains the Branding Assets of the Neos Project, i.e.
 * First read [The Brand Guide](https://github.com/neos/brand/blob/master/guides/neos_brand.pdf)
 * Different assets such as logo variants.
 
-If you have any questions on how to use them, we'd [love to hear from you](https://new.neos.io/docs-and-support/support.html)!
+If you have any questions on how to use them, we'd [love to hear from you](https://www.neos.io/docs-and-support/support.html)!
 
 ## Primary Logo
 ![image](https://raw.githubusercontent.com/neos/brand/master/logos/png/neos_full_primary_250.png)
