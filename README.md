@@ -1,12 +1,12 @@
 # Neos Brand Assets
 
-**IMPORTANT: The spacing between the N and the text in the logos changed. Make sure to update logos that are already in use!**
+**IMPORTANT: The spacing between the N and the text in the logos was changed. Make sure to update logos that are already in use!**
 
 https://neos.io
 
 This repository contains the Branding Assets of the Neos Project, i.e.
 
-* First read [The Brand Guide](https://github.com/neos/brand/blob/master/guides/neos_brand.pdf)
+* First read [The Brand Guide](guides/neos_brand.pdf)
 * Different assets such as logo variants.
 
 If you have any questions on how to use them, we'd [love to hear from you](https://www.neos.io/docs-and-support/support.html)!
@@ -117,4 +117,36 @@ If you have any questions on how to use them, we'd [love to hear from you](https
 [SVG](logos/Avatars/neos_avatar_monochrome.svg)
 [EPS](logos/Avatars/neos_avatar_monochrome.eps)
 [PNG](logos/Avatars/neos_avatar_monochrome.png) 
-[PNG@2x](logos/Avatars/neos_avatar_monochrome@2x.png) 
+[PNG@2x](logos/Avatars/neos_avatar_monochrome@2x.png)
+
+## Event Logos
+
+**If you have an idea for an event logo please contact the Neos team.
+New logos are only to be created by the Neos team!**
+
+We currently support two variants of the event logos.
+
+### Neos + Type of Event + Place & Date
+
+![image](logos/NeosEventConcept/neos_combined_1_primary.png)
+
+**Example:**
+
+![image](logos/NeosConference/neos_conference_primary.png)
+
+### Call to Action + Neos + Place & Date
+
+![image](logos/NeosEventConcept/neos_combined_2_primary.png)
+
+**Example:**
+
+![image](logos/MeetNeos/meet_neos_primary.png)
+
+## Neos Foundation
+
+
+
+![image](logos/NeosFoundation/neos_foundation_primary.png)
+
+
+
