@@ -22,12 +22,12 @@ const config = {
 	},
 	fonts: {
 		headings: {
-			family: 'Work Sans',
+			family: 'Open Sans',
 			style: 'Light',
 			cssWeight: '300'
 		},
 		copy: {
-			family: 'Work Sans',
+			family: 'Open Sans',
 			style: 'Regular',
 			cssWeight: '400'
 		}
