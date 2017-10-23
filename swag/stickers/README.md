@@ -14,10 +14,8 @@
 
 [2017-lidStickers-macbook-48x48mm.svg](2017-lidStickers-macbook-48x48mm.svg)
 
-#### Colors
-
-
-MP schwarz matt, MP weiß matt, Oracal 631 Lichtblau matt, Oracal 631 Dunkelblau matt
+#### Foils
+MP black mat, MP white mat, Oracal 631 light blue mat, Oracal 631 dark blue mat
 
 ### How to print
 
@@ -35,7 +33,7 @@ Make sure the sticker is produced with a transferfoil, to ensure an easy applica
 
 ### How to put on
 
-Clean you lid. Remove dirt, grease and coffee stains.
+Clean your lid. Remove dirt, grease and coffee stains.
 
 IMPORTANT: Make sure the N is upright when the lid is open. Please double-check with the logofiles here -> https://github.com/neos/brand
 
