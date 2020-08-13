@@ -1,7 +1,5 @@
 # Neos Brand Assets
 
-**IMPORTANT: The spacing between the N and the text in the logos was changed. Make sure to update logos that are already in use!**
-
 https://neos.io
 
 This repository contains the Branding Assets of the Neos Project, i.e.
