@@ -7,7 +7,5 @@
     "type": "git",
     "url": "https://github.com/neos/brand.git"
   },
-  "dependencies": {
-    "lodash.upperfirst": "^4.3.0"
-  }
+  "dependencies": {}
 }
