@@ -1,13 +1,13 @@
 {
   "name": "@neos-project/brand",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Branding Assets of the Neos Project.",
+  "bugs": "https://github.com/neos/brand/issues",
+  "homepage": "https://neos.io",
+  "license": "GPL-3.0-or-later",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/neos/brand.git"
-  },
-  "dependencies": {
-    "lodash.upperfirst": "^4.3.0"
   }
 }

@@ -1,4 +1,4 @@
-const upperFirst = require('lodash.upperfirst');
+const upperFirst = value => `${value.charAt(0).toUpperCase()}${value.slice(1)}`
 
 //
 // This file can be installed and imported across packages to have one
