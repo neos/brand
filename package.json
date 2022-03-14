@@ -1,6 +1,6 @@
 {
   "name": "@neos-project/brand",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Branding Assets of the Neos Project.",
   "main": "index.js",
   "repository": {
